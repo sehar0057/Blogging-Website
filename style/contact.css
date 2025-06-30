@@ -1,0 +1,10 @@
+/* contact.css */
+main h2 {
+  color: #8b0000;
+}
+
+main p {
+  background-color: #ffe6e6;
+  padding: 10px;
+  border-left: 4px solid #ff4d4d;
+}
