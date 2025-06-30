@@ -1,0 +1,11 @@
+/* blog.css */
+main h2 {
+  color: #d2691e;
+}
+
+main p {
+  font-style: italic;
+  background-color: #fff8e1;
+  padding: 10px;
+  border-left: 4px solid #ffa500;
+}
